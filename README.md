@@ -1,8 +1,6 @@
 ## Oi,eu sou o bipiribopi!
 
-
-- 🌱 I’m currently learning: Front-end Developement
-- 🤔 I’m looking for help with: JavaScript
+Student of Front End 🖼️
 
 <div align="center">
   <a href="https://github.com/bipiribopi">
