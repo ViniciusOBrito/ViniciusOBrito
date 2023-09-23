@@ -1,4 +1,4 @@
-## Oi,eu sou o bipiribopi!
+## Oi,eu sou Vinicius Brito!
 
 Student of Front End 🖼️
 
