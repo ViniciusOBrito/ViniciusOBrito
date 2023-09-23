@@ -1,11 +1,11 @@
 ## Oi,eu sou Vinicius Brito!
 
-Student of Front End 🖼️
+Student of Front-End and Back-End
 
 <div align="center">
-  <a href="https://github.com/bipiribopi">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=bipiribopi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipiribopi&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
+  <a href="https://github.com/ViniciusOBrito">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=ViniciusOBrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOBrito&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
 </div>
   
  ##
